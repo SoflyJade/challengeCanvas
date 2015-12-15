@@ -6,7 +6,7 @@ ctx.beginPath();
 // cercle
 ctx.arc(200,200,150,0,2*Math.PI);
 ctx.strokeStyle="rgb(0, 161, 208)"; //ligne bleu
-ctx.lineWidth = 15;
+ctx.lineWidth = 25;
 
 // carré 1
 ctx.fillStyle = "rgb(0, 161, 208)";
